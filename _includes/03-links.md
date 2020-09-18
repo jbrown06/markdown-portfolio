@@ -1,1 +1,1 @@
-<a href="https://github.com">A Link!</a>
+[A Link!](https://github.com)
