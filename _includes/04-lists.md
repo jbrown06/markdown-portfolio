@@ -1,4 +1,4 @@
-Listing things nearby
+- Listing things nearby
 - greyhound, Freyja
 - kindle
 - gf, Leigh
